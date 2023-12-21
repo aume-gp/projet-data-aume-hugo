@@ -1,1 +1,2 @@
-# projet-data-aume-hugo
+Projet Data DC5C :
+Guillaume PONTANIER & Hugo FERNANDEZ
